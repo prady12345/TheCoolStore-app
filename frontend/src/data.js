@@ -1,5 +1,5 @@
 const data ={
-    product:[
+    products:[
         {
             _id:'1',
             name:'The alchemist',
@@ -8,7 +8,7 @@ const data ={
             price: 100,
             brand: 'A',
             rating: 4,
-            numReviews: 10,
+            numReviews: 6,
             description: 'high quality product',
         },
         {
@@ -19,7 +19,7 @@ const data ={
             price: 80,
             brand: 'A',
             rating: 3,
-            numReviews: 10,
+            numReviews: 13,
             description: 'high quality product',
         },
         {
@@ -30,7 +30,7 @@ const data ={
             price: 105,
             brand: 'A',
             rating: 4.5,
-            numReviews: 10,
+            numReviews: 19,
             description: 'high quality product',
         },
         {
@@ -41,7 +41,7 @@ const data ={
             price: 140,
             brand: 'A',
             rating: 5,
-            numReviews: 10,
+            numReviews: 27,
             description: 'high quality product',
         },
         {
@@ -52,7 +52,7 @@ const data ={
             price: 95,
             brand: 'A',
             rating: 2.5,
-            numReviews: 10,
+            numReviews: 6,
             description: 'high quality product',
         },
         {
@@ -63,7 +63,7 @@ const data ={
             price: 125,
             brand: 'A',
             rating: 4,
-            numReviews: 10,
+            numReviews: 9,
             description: 'high quality product',
         },
         {
@@ -74,7 +74,7 @@ const data ={
             price: 195,
             brand: 'A',
             rating: 4.5,
-            numReviews: 10,
+            numReviews: 30,
             description: 'high quality product',
         },
         {
@@ -85,7 +85,7 @@ const data ={
             price: 65,
             brand: 'A',
             rating: 3,
-            numReviews: 10,
+            numReviews: 40,
             description: 'high quality product',
         },
     ],
