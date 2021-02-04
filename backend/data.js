@@ -17,7 +17,6 @@ const data ={
       ],
     products:[
         {
-            _id:'1',
             name:'The alchemist',
             category: 'books',
             image:'/images/p1.jpg',
@@ -29,7 +28,6 @@ const data ={
             description: 'high quality product',
         },
         {
-            _id:'2',
             name:'Rich dad poor dad',
             category: 'books',
             image:'/images/p2.jpg',
@@ -41,7 +39,6 @@ const data ={
             description: 'high quality product',
         },
         {
-            _id:'3',
             name:'The lean startup',
             category: 'books',
             image:'/images/p3.jpg',
@@ -53,7 +50,6 @@ const data ={
             description: 'high quality product',
         },
         {
-            _id:'4',
             name:'Eleven minutes',
             category: 'books',
             image:'/images/p4.jpg',
@@ -65,7 +61,6 @@ const data ={
             description: 'high quality product',
         },
         {
-            _id:'5',
             name:'You can win',
             category: 'books',
             image:'/images/p5.jpg',
@@ -77,7 +72,6 @@ const data ={
             description: 'high quality product',
         },
         {
-            _id:'6',
             name:'The chamber of secrets',
             category: 'books',
             image:'/images/p6.jpg',
@@ -89,7 +83,6 @@ const data ={
             description: 'high quality product',
         },
         {
-            _id:'7',
             name:'My experiments with truth',
             category: 'books',
             image:'/images/p7.jpg',
@@ -101,7 +94,6 @@ const data ={
             description: 'high quality product',
         },
         {
-            _id:'8',
             name:'The jungle book',
             category: 'books',
             image:'/images/p8.jpg',
