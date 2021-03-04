@@ -1,3 +1,4 @@
+
 {
   "name": "e_commerce",
   "type": "module",
@@ -5,7 +6,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
+    "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js",
+    "build": "node node_modules/react-scripts/scripts/build.js",
+    "test": "node node_modules/react-scripts/scripts/test.js",
+    "eject": "node node_modules/react-scripts/scripts/eject.js"
   },
   "repository": {
     "type": "git",
@@ -30,4 +34,6 @@
     "eslint-plugin-react": "^7.22.0",
     "nodemon": "^2.0.7"
   }
+
+  
 }
