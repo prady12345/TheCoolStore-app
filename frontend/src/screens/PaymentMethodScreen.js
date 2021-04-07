@@ -38,7 +38,7 @@ export default function PaymentMethodScreen(props) {
             <label htmlFor="paypal">PayPal</label>
           </div>
         </div>
-        <div>
+        {/* <div>
           <div>
             <input
               type="radio"
@@ -50,7 +50,7 @@ export default function PaymentMethodScreen(props) {
             ></input>
             <label htmlFor="stripe">Stripe</label>
           </div>
-        </div>
+        </div> */}
         <div>
           <label />
           <button className="primary" type="submit">
