@@ -36,7 +36,7 @@ function App() {
     <div className="grid-container">
             <header className="row">
                 <div>
-                    <Link className="brand" to="/">The Cool Store</Link>
+                    <Link className="brand" to="/">BOOKISH WOOKISH</Link>
                 </div>
                 <div>
                     <Link to="/cart">Cart
@@ -107,7 +107,7 @@ function App() {
               
             </main>
             <footer className="row center">
-                All Rights Reserved.
+                &copy;2021 Copyrights: <Link className="foot" to="/"> BOOKISH WOOKISH</Link>
             </footer>
         </div>
         </BrowserRouter>
